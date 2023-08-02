@@ -35,8 +35,8 @@ trap handle_err ERR
 <a href="https://orgmode.org/">
   <img class="badge" src="https://img.shields.io/badge/Made_with-Org_Mode-nil">
 </a>
-<a href="https://github.com/bastibe/org-static-blog">
-  <img class="badge" src="https://img.shields.io/badge/Made_with-org--static--blog-nil">
+<a href="https://github.com/yjwen/org-reveal">
+  <img class="badge" src="https://img.shields.io/badge/Made_with-ox--reveal.el-nil">
 </a>
 #+end_html
 
